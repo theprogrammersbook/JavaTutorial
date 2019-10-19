@@ -1,4 +1,4 @@
-# Maven jar  plugin jar file creation.
+# Assembly maven plugin.
 
 Jar creation process.
 
