@@ -1,0 +1,1 @@
+# One Jar Maven Plugin.
