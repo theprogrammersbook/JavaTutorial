@@ -1,0 +1,6 @@
+*.class
+obj
+.vs
+bin
+target
+.idea/
